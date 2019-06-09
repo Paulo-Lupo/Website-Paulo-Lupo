@@ -3,7 +3,6 @@
   }
   body {
     margin: 0;
-    background-image:url("images/back.jpg");
     background-size: cover;
     font-family: 'Play', sans-serif;
   }
@@ -47,7 +46,7 @@
   }
   
   .navbar {
-    background-image:url("images/code.jpg");
+    background-image:url("../../images/code.jpg");
     position: fixed;
     top: 0;
     width: 100%;
@@ -158,20 +157,20 @@
   }
   .card-header{
     height:170px;
-    background-image:url("images/GitHub-Mark-120px-plus.png");
+    background-image:url("../../images/GitHub-Mark-120px-plus.png");
     background-size:contain;
     background-repeat: no-repeat;
     background-position:center;
   }
   .card-header.ch2{
     
-    background-image:url("images/In-Blue-128@2x.png");
+    background-image:url("../../images/In-Blue-128@2x.png");
     background-size:contain;
     background-repeat: no-repeat;
     background-position:center;
   }
   .card-header.ch3{
-    background-image:url("images/resume.png");
+    background-image:url("../../images/resume.png");
     background-size:contain;
     background-repeat: no-repeat;
     background-position:center;
